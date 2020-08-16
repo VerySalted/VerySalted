@@ -35,5 +35,4 @@ Student pursuing a bachelor's degree in Software Engineering at University of So
 
 ![Rust](https://img.shields.io/badge/Rust-f74c00?style=flat-square&logo=Rust&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-f16524?style=flat-square&logo=HTML5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=CSS3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white) 
