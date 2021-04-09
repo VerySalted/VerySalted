@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I am Marc
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I am Marc
 
 [![Github](https://img.shields.io/badge/-VerySalted-0e0e0e?style=flat-square&logo=GitHub&logoColor=white&link=github.com/VerySalted)](https://github.com/VerySalted)
 [![Mail](https://img.shields.io/badge/-salted@saltedcorp.com-840010?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salted@saltedcorp.com)](mailto:salted@saltedcorp.com)
@@ -17,8 +17,12 @@ Student pursuing a bachelor's degree in Software Engineering at University of So
 ![Java](https://img.shields.io/badge/Java-f89917?style=flat-square&logo=Java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3474a5?style=flat-square&logo=Python&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-326690?style=flat-square&logo=postgresql&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-00618a?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4bae3d?style=flat-square&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4bae3d?style=flat-square&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-f16524?style=flat-square&logo=HTML5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white) 
 
 ### Tools
 
@@ -36,5 +40,3 @@ Student pursuing a bachelor's degree in Software Engineering at University of So
 ### Wanting to learn/learning
 
 ![Rust](https://img.shields.io/badge/Rust-f74c00?style=flat-square&logo=Rust&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-f16524?style=flat-square&logo=HTML5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=JavaScript&logoColor=white) 
