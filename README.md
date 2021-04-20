@@ -49,4 +49,4 @@ Student pursuing a bachelor's degree in Software Engineering at University of So
 ![Artix](http://img.shields.io/badge/-Artix_Linux-1793d1?style=flat-square&logo=linux&logoColor=white)
 ![Windows 10](http://img.shields.io/badge/-Windows_10-0077db?style=flat-square&logo=windows&logoColor=white)
 
-<sub><sup>(<-- we down bad)</sup></sub>
+<sub><sup><-- we down bad</sup></sub>
